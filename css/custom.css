@@ -6,6 +6,7 @@ body {
   background-image: url('../images/bulb.jpg');
   background: url('../images/bulb.jpg') no-repeat;
   background-size: 100%;
+  background-attachment: fixed;
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
